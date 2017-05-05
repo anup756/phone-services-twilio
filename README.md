@@ -7,14 +7,14 @@ I started this as a Corvisa (now Shoretel) project but found that their API was 
 #### 1. Login Screen
 ![alt text](https://raw.githubusercontent.com/anup756/phone-services-twilio/master/images/Login.png)
 ---
-#### 2. Click-to-Call (would be a great CRM feature!)
+#### 2. Click-to-Call (I believe this would be a great CRM feature!)
 ![alt text](https://raw.githubusercontent.com/anup756/phone-services-twilio/master/images/Click-to-Call.png)
 ---
-#### 3. Web Phone (would be a great CRM feature!)
+#### 3. Web Phone (another great CRM feature if implemented)
 ![alt text](https://raw.githubusercontent.com/anup756/phone-services-twilio/master/images/WebPhone.png)
 ---
 #### 4. Sending SMS or Messages
 ![alt text](https://raw.githubusercontent.com/anup756/phone-services-twilio/master/images/SendSMS.png)
 ---
-#### 5. Add a Lead Alert (another great feature for any CRM products)
+#### 5. Add a Lead Alert (another great feature if implemented)
 ![alt text](https://raw.githubusercontent.com/anup756/phone-services-twilio/master/images/LeadAlert.png)
